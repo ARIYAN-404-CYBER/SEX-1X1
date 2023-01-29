@@ -1,3 +1,0 @@
-import gamil
-
-gamil.gmail()
